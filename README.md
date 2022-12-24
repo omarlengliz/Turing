@@ -14,4 +14,4 @@ A simple script for turing machine simulation
 >  Python
 
  
-![image](https://drive.google.com/uc?export=view&id=18ZNIC-0_B82V9rhtXzaxgY_tg8MLOjdr)
+![gif](https://drive.google.com/uc?export=view&id=18ZNIC-0_B82V9rhtXzaxgY_tg8MLOjdr)
